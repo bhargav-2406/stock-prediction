@@ -1,4 +1,0 @@
-C:\Users\gpnch\anaconda3
-C:\Users\gpnch\miniconda3
-C:\Users\gpnch\anaconda3\envs\stenv
-C:\Users\gpnch\anaconda3\envs\day4
